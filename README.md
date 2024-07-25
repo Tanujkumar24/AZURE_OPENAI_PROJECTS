@@ -1,1 +1,1 @@
-# AzureOpenAI Crash Course
+# AzureOpenAI Projects
